@@ -1,7 +1,7 @@
-from Hotel import Hotel 
-from HabitacionEstandar import HabitacionEstandar
-from HabitacionSuite import HabitacionSuite
-from HabitacionPremium import HabitacionPremium
+from src.Hotel import Hotel 
+from src.HabitacionEstandar import HabitacionEstandar
+from src.HabitacionSuite import HabitacionSuite
+from src.HabitacionPremium import HabitacionPremium
 
 def menu():
     hotel = Hotel()
