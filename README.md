@@ -28,7 +28,7 @@ Este proyecto busca reforzar los conceptos de **clases, herencia, encapsulamient
 
 ---
 
-## Clonar repositotio desde Visual Studio Code
+## Clonar repositorio desde Visual Studio Code
 
 1. Abre VS Code.  
 2. En la barra lateral izquierda, haz clic en **Source Control** (ícono de ramita ⎇).  
@@ -43,7 +43,7 @@ Este proyecto busca reforzar los conceptos de **clases, herencia, encapsulamient
 ---
 
 ## Ejecutar el Programa
-1. Abre una nueva termina presionando **Control + shift + ñ"
+1. Abre una nueva terminal presionando **Control + shift + ñ"
 2. Cambia de rama escribiendo git checkout Prod
 3. Escribe en consola py Main.py
 
