@@ -33,12 +33,13 @@ Este proyecto busca reforzar los conceptos de **clases, herencia, encapsulamient
 1. Abre VS Code.  
 2. En la barra lateral izquierda, haz clic en **Source Control** (ícono de ramita ⎇).  
 3. Haz clic en **Clonar repositorio**.  
-4. **Pega la URL del repositorio**:  
+4. **Pega la URL del repositorio**:
+   
    ```
    https://github.com/VeronicacortesIsaza/Sistema-Reserva-Hotel.git
    ```
-5. Selecciona la carpeta donde quieres guardar el proyecto.  
-6. Cuando termine la clonación, elige **Abrir repositorio clonado**.
+6. Selecciona la carpeta donde quieres guardar el proyecto.  
+7. Cuando termine la clonación, elige **Abrir repositorio clonado**.
 
 ---
 
