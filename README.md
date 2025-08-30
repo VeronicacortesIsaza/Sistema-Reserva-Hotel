@@ -45,8 +45,8 @@ Este proyecto busca reforzar los conceptos de **clases, herencia, encapsulamient
 
 ## Ejecutar el Programa
 1. Abre una nueva terminal presionando **Control + shift + ñ"
-2. Cambia de rama escribiendo git checkout Prod
-3. Escribe en consola py Main.py
+2. Cambia de rama escribiendo ```git checkout Prod```
+3. Escribe en consola ```py Main.py```
 
 Aparecerá el menú:
 
